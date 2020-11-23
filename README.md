@@ -1,3 +1,3 @@
 # JavaScript-BookList-App-No-Frameworks
 
-Saving to local storage in the browser
+A full app in JavaScript without and library or JS framework, using classes, local storage and more.
