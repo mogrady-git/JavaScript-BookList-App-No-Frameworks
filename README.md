@@ -1,4 +1,4 @@
-# JavaScript-BookList-App-No-Frameworks
+# Class based Booklist Application
 
 Booklist Application using:
 
